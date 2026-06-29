@@ -77,9 +77,6 @@ The dataset contains information such as:
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard](Images/dashboard.png)
 
 ---
 
